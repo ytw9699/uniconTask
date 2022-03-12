@@ -1,2 +1,4 @@
-package org.task.processing.service;public class processServiceImpl {
+package org.task.processing.service;
+
+public class processServiceImpl {
 }
