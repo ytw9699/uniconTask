@@ -8,6 +8,6 @@ class ProcessingApplicationTests {
 
     @Test
     void contextLoads() {
+        System.out.println("contextLoads");
     }
-
 }
